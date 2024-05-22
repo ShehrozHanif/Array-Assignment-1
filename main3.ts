@@ -1,4 +1,4 @@
-// Array with Types and Indexing-Employee Salaries
+// Part 3: Array with Types and Indexing-Employee Salaries
 // Challenge:
 //Managing Employess Salaries for a Company.
 

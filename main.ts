@@ -1,5 +1,7 @@
 //                           Array Assignment
-/* Challenge:
+/* 
+Part 1: Basic Arrays - Product Inventory
+Challenge:
  You are taskd with Creating a Inventory System.Implement functions and logic to manage object manupulation effectively.
 
  1.Define a type alias named product to represent a product with the following properties:
